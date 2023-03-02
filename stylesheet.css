@@ -6,10 +6,33 @@ h1 {
   color: navy;
   font-size: 100px;
 }
-.myDiv {
+.greenDiv {
   color: green;
   font-size: 50px;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+a{
+  font-size: 50px;
+  alignment: center;
 }
 a:hover{
   background-color:yellow;
+}
+#Sykes{
+  font-family:"Comic Sans MS";
+  color:darkgoldenrod;
+}
+
+#thirdpage{
+  font-family:"Wingdings";
+  color:white;
+}
+#bigfont{
+  font-size: 30px;
+}
+.bigshotfont{
+  color:blue;
 }
